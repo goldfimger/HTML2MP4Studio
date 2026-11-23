@@ -1,1 +1,13 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HTML2MP4 Studio</string>
+    <string name="muat_contoh">Muat Contoh Animasi HTML</string>
+    <string name="muat_file">Muat File .html</string>
+    <string name="tab_editor">Editor Kode</string>
+    <string name="tab_tuning">Tuning Video</string>
+    <string name="render_mp4">Render ke MP4</string>
+    <string name="batalkan">Batalkan</string>
+    <string name="putar_video">Putar Video</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="tutup">Tutup</string>
+</resources>
